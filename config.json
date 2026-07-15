@@ -1,0 +1,4 @@
+{
+  "_note": "FixFly iOS remote config. To move the backend WITHOUT an App Store resubmit, change api_base_url below and push — apps pick it up on the next launch. Keep it an https URL with no trailing slash.",
+  "api_base_url": "https://fixfly-32d3dc.azurewebsites.net"
+}
